@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Nube</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="header">
+        <h1>☁ Mi Nube</h1>
+
+        <input type="file" id="fileInput">
+
+        <button onclick="uploadFile()">
+            Subir
+        </button>
+    </div>
+
+    <div id="files"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="app.js"></script>
+
+</body>
+</html>
