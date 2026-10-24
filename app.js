@@ -1,6 +1,6 @@
 const supabaseClient = supabase.createClient(
-    "https://mlxjobwhdvcxzmmxulmp.supabase.co",
-    "sb_publishable_5S397aeTfAw2-FpK01RoXQ_x6cUgyeV"
+    "https://glsneoxrrxpgsongwcju.supabase.co",
+    "sb_publishable_WtQ4q4dagCPXP9P6Lp8Bww_ZHUJQVF-"
 );
 
 // TAMAÑO MÁXIMO (50 MB)
